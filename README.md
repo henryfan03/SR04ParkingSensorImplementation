@@ -22,3 +22,7 @@ This project utilizes an Arduino microcontroller, an HC-SR04 ultrasonic sensor, 
 - State 2: Distance detected is below 50 cm but above 25 cm. The Arduino will signal the buzzer to beep a low note slowly.
 - State 3: Distance detected is below 25 cm but above 10 cm. The Arduino will signal the buzzer to beep a medium note at a moderate pace.
 - State 4: Distance detected is below 10 cm. The Arduino will signal the buzzer to beep a high note quickly.
+
+## Extra
+---
+- WIP
