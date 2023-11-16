@@ -13,7 +13,10 @@ This project utilizes an Arduino microcontroller, an HC-SR04 ultrasonic sensor, 
 
 ## Wiring Diagram
 ---
-- WIP
+![image](https://github.com/henryfan03/SR04ParkingSensorImplementation/assets/68411149/ec1a96c5-871e-4a1b-b66d-c5213df4119f)
+![image](https://github.com/henryfan03/SR04ParkingSensorImplementation/assets/68411149/53f131f5-16b8-4568-938f-bc99c1f76621)
+
+
 
 ## Implementation
 ---
